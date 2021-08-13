@@ -1,0 +1,19 @@
+module PC(clock, anterior, proximo);
+	input clock;
+	input [7:0] anterior;
+	reg [7:0] durante;
+	output reg [7:0] proximo;
+
+	initial begin
+		proximo = 0;
+	end
+
+	always @(posedge clock or negedge clock) begin //posedge = leitura, negedge = escrita
+		if(clock) begin
+			durante = anterior;//leitura
+		end
+		if(~clock) begin
+			proximo = durante;//escrita
+		end
+	end
+endmodule
