@@ -1,0 +1,299 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/meus documentos/laoc
+vAdd
+!s110 1628882913
+!i10b 1
+!s100 _2`KnKn83J`Gb[j4WaVj42
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IBc]4ob_2^fokiOQ:R@PXH1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/estudo
+w1628882274
+8D:\estudo\Add.v
+FD:\estudo\Add.v
+!i122 103
+L0 1 13
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1628882913.000000
+!s107 D:\estudo\Add.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\estudo\Add.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@add
+vBr
+Z6 !s110 1628882912
+!i10b 1
+!s100 <2<<<^l^SWC;ICOSFzD@82
+R0
+IfMX7Y[B4AgX?5<ObDHHfa0
+R1
+R2
+w1628811192
+8D:/estudo/Br.v
+FD:/estudo/Br.v
+!i122 98
+L0 1 24
+R3
+r1
+!s85 0
+31
+Z7 !s108 1628882912.000000
+!s107 D:/estudo/Br.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/estudo/Br.v|
+!i113 1
+R4
+R5
+n@br
+vControle
+R6
+!i10b 1
+!s100 GL8Mc<ADFg;>o8X]GXIh11
+R0
+IHS@le;HZ`7NS;R0<WFPLB0
+R1
+R2
+w1628821691
+8D:/estudo/Controle.v
+FD:/estudo/Controle.v
+!i122 97
+L0 2 43
+R3
+r1
+!s85 0
+31
+Z8 !s108 1628882911.000000
+!s107 D:/estudo/Controle.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/estudo/Controle.v|
+!i113 1
+R4
+R5
+n@controle
+vDadoMemoria
+R6
+!i10b 1
+!s100 K?eb=Y<DoAg]GZ8J=RM`I0
+R0
+IO4mjP9Q6h30joY]BK8mjN2
+R1
+R2
+w1628823342
+8D:/estudo/DadoMemoria.v
+FD:/estudo/DadoMemoria.v
+!i122 101
+L0 1 26
+R3
+r1
+!s85 0
+31
+R7
+!s107 D:/estudo/DadoMemoria.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/estudo/DadoMemoria.v|
+!i113 1
+R4
+R5
+n@dado@memoria
+vExtensor3x8
+!s110 1628883149
+!i10b 1
+!s100 ?UNYn1GT@3jO;KLmmLLce2
+R0
+IFOEmaO6Z[TWbUCR89hhgK3
+R1
+R2
+w1628883138
+8D:/estudo/Extensor3x8.v
+FD:/estudo/Extensor3x8.v
+!i122 104
+L0 1 37
+R3
+r1
+!s85 0
+31
+!s108 1628883149.000000
+!s107 D:/estudo/Extensor3x8.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/estudo/Extensor3x8.v|
+!i113 1
+R4
+R5
+n@extensor3x8
+vExtensor5x8
+!s110 1628884908
+!i10b 1
+!s100 2ToSaC]4?nUZecYdDeZ1F3
+R0
+IC4z]g[Ez3>gdIman<e>aE0
+R1
+R2
+w1628883990
+8D:/estudo/Extensor5x8.v
+FD:/estudo/Extensor5x8.v
+!i122 105
+L0 2 37
+R3
+r1
+!s85 0
+31
+!s108 1628884908.000000
+!s107 D:/estudo/Extensor5x8.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/estudo/Extensor5x8.v|
+!i113 1
+R4
+R5
+n@extensor5x8
+vinstruMemoria
+Z9 !s110 1628882911
+!i10b 1
+!s100 1GG_efjfcm51c?V==`95V1
+R0
+I?BzZWY0:?i7ajfJXCee312
+R1
+R2
+w1628823420
+8D:/estudo/InstruMemoria.v
+FD:/estudo/InstruMemoria.v
+!i122 95
+L0 1 18
+R3
+r1
+!s85 0
+31
+R8
+!s107 D:/estudo/InstruMemoria.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/estudo/InstruMemoria.v|
+!i113 1
+R4
+R5
+ninstru@memoria
+vMUX
+!s110 1628885955
+!i10b 1
+!s100 9k`SUFF?UMIB<?aB4`E]c0
+R0
+IR?La2H^=:8fJ9Odo0JPVS3
+R1
+R2
+w1628885952
+8D:/estudo/MUX.v
+FD:/estudo/MUX.v
+!i122 107
+L0 1 14
+R3
+r1
+!s85 0
+31
+!s108 1628885954.000000
+!s107 D:/estudo/MUX.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/estudo/MUX.v|
+!i113 1
+R4
+R5
+n@m@u@x
+vPC
+R9
+!i10b 1
+!s100 ZMZOK;P<f8ObC3nU2@;eI3
+R0
+IL;6FUjQV]S74Oom?57U_[1
+R1
+R2
+w1628819296
+8D:/estudo/PC.v
+FD:/estudo/PC.v
+!i122 96
+L0 1 22
+R3
+r1
+!s85 0
+31
+R8
+!s107 D:/estudo/PC.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/estudo/PC.v|
+!i113 1
+R4
+R5
+n@p@c
+vSr
+R6
+!i10b 1
+!s100 dbU[bGakHXdRSlcA_fX:Y0
+R0
+If]EGWVEBHnncRV8OIg]@A0
+R1
+R2
+w1628811214
+8D:/estudo/Sr.v
+FD:/estudo/Sr.v
+!i122 100
+L0 1 27
+R3
+r1
+!s85 0
+31
+R7
+!s107 D:/estudo/Sr.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/estudo/Sr.v|
+!i113 1
+R4
+R5
+n@sr
+vTr
+R6
+!i10b 1
+!s100 fK>:h[U^Ve2]DDObGGFT:2
+R0
+If_>4QLeUIEcSDZY5Clz7T3
+R1
+R2
+w1628811174
+8D:/estudo/Tr.v
+FD:/estudo/Tr.v
+!i122 99
+L0 1 28
+R3
+r1
+!s85 0
+31
+R7
+!s107 D:/estudo/Tr.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/estudo/Tr.v|
+!i113 1
+R4
+R5
+n@tr
+vXNOR
+!s110 1628886495
+!i10b 1
+!s100 @]4E1eV_eHZ30e@MDz4`U0
+R0
+IgI4;];f9YI<J32;hUAY^33
+R1
+R2
+w1628886465
+8D:/estudo/XNOR.v
+FD:/estudo/XNOR.v
+!i122 108
+L0 1 9
+R3
+r1
+!s85 0
+31
+!s108 1628886494.000000
+!s107 D:/estudo/XNOR.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/estudo/XNOR.v|
+!i113 1
+R4
+R5
+n@x@n@o@r

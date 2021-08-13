@@ -1,0 +1,111 @@
+# Compile of InstruMemoria.v was successful.
+# Compile of PC.v was successful.
+# Compile of Controle.v was successful.
+# Compile of Br.v was successful.
+# Compile of Tr.v was successful.
+# Compile of Sr.v was successful.
+# Compile of DadoMemoria.v was successful.
+# 7 compiles, 0 failed with no errors.
+# Compile of InstruMemoria.v was successful.
+# Compile of PC.v was successful.
+# Compile of Controle.v was successful.
+# Compile of Br.v was successful.
+# Compile of Tr.v was successful.
+# Compile of Sr.v was successful.
+# Compile of DadoMemoria.v was successful.
+# Compile of Extensor3x8.v failed with 2 errors.
+# Compile of Add.v failed with 1 errors.
+# Compile of Extensor5x8.v was successful.
+# Compile of MUX.v was successful.
+# Compile of XNOR.v was successful.
+# 12 compiles, 2 failed with 3 errors.
+# Compile of Add.v failed with 1 errors.
+# Compile of Add.v failed with 1 errors.
+# Compile of InstruMemoria.v was successful.
+# Compile of PC.v was successful.
+# Compile of Controle.v was successful.
+# Compile of Br.v was successful.
+# Compile of Tr.v was successful.
+# Compile of Sr.v was successful.
+# Compile of DadoMemoria.v was successful.
+# Compile of Extensor3x8.v failed with 2 errors.
+# Compile of Add.v failed with 1 errors.
+# Compile of Extensor5x8.v was successful.
+# Compile of MUX.v was successful.
+# Compile of XNOR.v was successful.
+# 12 compiles, 2 failed with 3 errors.
+# Compile of Add.v failed with 1 errors.
+# Compile of Add.v was successful.
+vsim work.Add
+# vsim work.Add 
+# Start time: 16:12:38 on Aug 13,2021
+# Loading work.Add
+wave create -driver freeze -pattern repeater -initialvalue 0000000 -period 100ps -sequence { 11110111 00001001 10001000 01100101  } -repeat forever -range 7 0 -starttime 0ps -endtime 500ps sim:/Add/num1
+# Editable Wave items are not compatible with the wave window's standard undo-redo.  Standard undo-redo has been disabled.
+wave create -driver freeze -pattern constant -value 00000001 -range 7 0 -starttime 0ps -endtime 1000ps sim:/Add/num2
+run -all
+# Testando somador
+#  num1 = 11110111   num2 = 00000001  soma = 11111000 
+#  num1 = 00001001   num2 = 00000001  soma = 00001010 
+#  num1 = 10001000   num2 = 00000001  soma = 10001001 
+#  num1 = 01100101   num2 = 00000001  soma = 01100110 
+#  num1 = 11110111   num2 = 00000001  soma = 11111000 
+quit -sim
+# End time: 16:24:56 on Aug 13,2021, Elapsed time: 0:12:18
+# Errors: 0, Warnings: 17
+# Compile of Extensor3x8.v failed with 1 errors.
+# Compile of Extensor3x8.v failed with 1 errors.
+# Compile of Extensor3x8.v failed with 2 errors.
+# Compile of Extensor3x8.v failed with 9 errors.
+# Compile of Extensor3x8.v was successful.
+# Compile of InstruMemoria.v was successful.
+# Compile of PC.v was successful.
+# Compile of Controle.v was successful.
+# Compile of Br.v was successful.
+# Compile of Tr.v was successful.
+# Compile of Sr.v was successful.
+# Compile of DadoMemoria.v was successful.
+# Compile of Extensor3x8.v was successful.
+# Compile of Add.v was successful.
+# Compile of Extensor5x8.v was successful.
+# Compile of MUX.v was successful.
+# Compile of XNOR.v was successful.
+# 12 compiles, 0 failed with no errors.
+# Compile of Extensor3x8.v was successful.
+vsim work.Extensor3x8
+# vsim work.Extensor3x8 
+# Start time: 16:32:34 on Aug 13,2021
+# Loading work.Extensor3x8
+wave create -driver freeze -pattern repeater -initialvalue 101 -period 50ps -sequence { 001 000 110 111  } -repeat forever -range 2 0 -starttime 0ps -endtime 1000ps sim:/Extensor3x8/sinalEntrada
+# Editable Wave items are not compatible with the wave window's standard undo-redo.  Standard undo-redo has been disabled.
+run -all
+# teste extensor/complemento de 2
+# entrada = 001, saida = 00000001
+# entrada = 000, saida = 00000000
+# entrada = 110, saida = 11111110
+# entrada = 111, saida = 11111101
+# entrada = 001, saida = 00000001
+# entrada = 000, saida = 00000000
+# entrada = 110, saida = 11111110
+# entrada = 111, saida = 11111101
+# entrada = 001, saida = 00000001
+# entrada = 000, saida = 00000000
+# entrada = 110, saida = 11111110
+# entrada = 111, saida = 11111101
+# entrada = 001, saida = 00000001
+# entrada = 000, saida = 00000000
+# entrada = 110, saida = 11111110
+# entrada = 111, saida = 11111101
+# entrada = 001, saida = 00000001
+# entrada = 000, saida = 00000000
+# entrada = 110, saida = 11111110
+# entrada = 111, saida = 11111101
+quit -sim
+# End time: 16:45:05 on Aug 13,2021, Elapsed time: 0:12:31
+# Errors: 0, Warnings: 8
+# Compile of Extensor5x8.v was successful.
+# Compile of MUX.v failed with 2 errors.
+# Compile of MUX.v was successful.
+# Compile of MUX.v failed with 2 errors.
+# Compile of MUX.v was successful.
+# Compile of XNOR.v was successful.

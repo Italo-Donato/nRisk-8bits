@@ -1,0 +1,78 @@
+D:/estudo/Extensor5x8.v {1 {vlog -work work -stats=none D:/estudo/Extensor5x8.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Extensor5x8
+
+Top level modules:
+	Extensor5x8
+
+} {} {}} D:/estudo/Sr.v {1 {vlog -work work -stats=none D:/estudo/Sr.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Sr
+
+Top level modules:
+	Sr
+
+} {} {}} D:/estudo/Controle.v {1 {vlog -work work -stats=none D:/estudo/Controle.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Controle
+
+Top level modules:
+	Controle
+
+} {} {}} D:/estudo/InstruMemoria.v {1 {vlog -work work -stats=none D:/estudo/InstruMemoria.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module instruMemoria
+
+Top level modules:
+	instruMemoria
+
+} {} {}} D:/estudo/MUX.v {1 {vlog -work work -stats=none D:/estudo/MUX.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MUX
+
+Top level modules:
+	MUX
+
+} {} {}} D:/estudo/PC.v {1 {vlog -work work -stats=none D:/estudo/PC.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} D:/estudo/Br.v {1 {vlog -work work -stats=none D:/estudo/Br.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Br
+
+Top level modules:
+	Br
+
+} {} {}} D:/estudo/Tr.v {1 {vlog -work work -stats=none D:/estudo/Tr.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Tr
+
+Top level modules:
+	Tr
+
+} {} {}} D:/estudo/Add.v {1 {vlog -work work -stats=none {D:\estudo\Add.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Add
+
+Top level modules:
+	Add
+
+} {} {}} D:/estudo/DadoMemoria.v {1 {vlog -work work -stats=none D:/estudo/DadoMemoria.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DadoMemoria
+
+Top level modules:
+	DadoMemoria
+
+} {} {}} D:/estudo/Extensor3x8.v {1 {vlog -work work -stats=none D:/estudo/Extensor3x8.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Extensor3x8
+
+Top level modules:
+	Extensor3x8
+
+} {} {}}
